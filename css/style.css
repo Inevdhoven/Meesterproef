@@ -241,7 +241,7 @@ header::after {
 
 header button {
     background: transparent;
-    background-image: url(../images/lamp_uit3.png);
+    background-image: url(./images/lamp_uit3.png);
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
@@ -264,15 +264,15 @@ header button {
 }
 
 header button.light-theme {
-    background-image: url(../images/lamp_aan.png);
+    background-image: url(./images/lamp_aan.png);
 }
 
 header button.dark-theme.light-theme {
-    background-image: url(../images/lamp_aan.png);
+    background-image: url(./images/lamp_aan.png);
 }
 
 header button.dark-theme {
-    background-image: url(../images/lamp_uit3.png);
+    background-image: url(./images/lamp_uit3.png);
 }
 
 header div:first-of-type {
